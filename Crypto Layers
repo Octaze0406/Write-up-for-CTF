@@ -1,0 +1,3 @@
+since it was clear that binary codes were given and in the hint it was many layer encryption .
+So according to the hint i converted binary to caesar using online decoder.
+then from caesar to vignere cyphers on the site dcode.com thus revealing the flag.
