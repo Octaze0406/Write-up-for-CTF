@@ -1,0 +1,5 @@
+first i searched and learned about UART(a communication protocol to transmit and receive data between devices).
+then i looked at the hint and realized tx-trasmitting port and rx-receiving port. So i probably have to connect the wires to these two ports which were given as 2 and 3 respectively in the hints.
+then i searched what to do with analyser 24MHz8CH AND an arduino in logic 2 software which provided me with salae logic analyzer to read the flag after connecting the device to the laptop using usb.
+then after opening the terminal i captured the data from the channel which was showing the data and i got the flag.
+Learned about ; Logic analyzer(for capturing and analyzing signals) , UART, tx and rx, and learned to use a logic analyzer software to capture the said data provided by the devices
