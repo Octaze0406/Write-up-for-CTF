@@ -1,0 +1,7 @@
+First as soon as the coordinators conected the esp device to the laptop using the password for that device wifi and specifically it said in the description--coonect to the devices network. 
+I knew it had something to do with ip adress login, similar to the ones we do with wifi router login.
+So i look at the wifi connection to the device and optained its IP. Searched on google and got introduced to ROBOTS.
+Robots of a website refers to programs or scripts mainly associated with 2 function -
+   1.to as as web crawlers; indexing and ranking the web results by looking into different site. you can also limit how others crawlers access you sites.
+   2. as chatbots; for better user interaction and to reveal info to user on the particular website.
+thersfore locating the robots file provided me with the flag.
