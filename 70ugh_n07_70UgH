@@ -1,0 +1,4 @@
+Using the information given in the ino board correctly, connected the board using usb to the laptop by setting the correct board rate.
+Then on carefully analyzing the code. Iconnected one end of the 4 wires provided to the ports numbered 2, 3, 4, 5.
+So based on the code, connections were made between 1. (5 and high)   2.  (4 and high)  3.  (3 and high)   4. (2 and LOW).
+Hence after the connections were made correctly, the flag was given in the serial monitor.
