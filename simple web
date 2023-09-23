@@ -1,0 +1,3 @@
+Upon visitng the website, the used id and password was asked.
+So on inpecting the website, isnide the script.js was the userid-WebWarrior_Enigma and pass-B4dm1Nt0n_1S_be5t_g4me.
+This provided me with and encrypted msg which was in base64 format which on converting to ascii gave me the flag.
