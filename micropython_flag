@@ -1,0 +1,4 @@
+Connecting the ESP8266 to the lap using USB cable.
+First time using the baord so to establish communication downloaded ARDUINO IDE.
+Set the proper board rate which was at 115200 and opened the serial monitor to catch the readings.
+The flag was hence captured.
