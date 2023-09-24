@@ -1,0 +1,4 @@
+Connected the arduino board to the lap .
+The task to extract the firmware from an arduino was made less harder using chatgpt.
+executed the final code "sudo avrdude -p m329p -c arduino -P/dev/ttyUSB0 -b 115200 -U flash:r:firmware.hex:i " to extract the Firmware.
+Converted hex file to bin file and used grep function to get the flag.
