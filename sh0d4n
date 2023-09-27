@@ -1,3 +1,3 @@
 after searching for every bit of clue on the gas tanks. ie : in-tank inventory refers to quantity and type of products that are present inside the tank, the gas tank inventory in canada .
-but the brakthrough came when i looked into ipadress and it mentioned sites which holds such potentilas.
+but the brakthrough came when i looked into ip adress and it mentioned sites which holds such potentials.
 then i searched shodan, entered canada which gave me the available sites, and amongst them the one which matched the correct tank products description provided the necessary ip adress which on susbstitutingt (.) with (_) gave the required flag
